@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="/Users/shane/code/capnet/figs/pipeline.png" alt="Image 2"></td>
+    <td><img src="./figs/pipeline.png" alt="Image 2"></td>
   </tr>
 </table>
 
