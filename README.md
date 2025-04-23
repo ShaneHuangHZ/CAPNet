@@ -31,12 +31,12 @@ python setup.py install
 ```
 
 ## 📊 Prepare Dataset
-Download [[RGBD-Art dataset](https://pan.baidu.com/s/1yudwA313tosOzkrkWHMB5g?pwd=b518)]
+Download [[RGBD-Art dataset](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k)]
 
 Unzip and organize these files in `./data` 
 
 ## 🪄 Inference
-We provide the [[pretrain models](https://pan.baidu.com/s/1yudwA313tosOzkrkWHMB5g?pwd=b518)] of `CAPNet`
+We provide the [[pretrain models](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k)] of `CAPNet`
 ```
 bash scripts/eval.sh
 ```
