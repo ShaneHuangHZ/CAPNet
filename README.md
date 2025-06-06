@@ -32,6 +32,7 @@ python setup.py install
 
 ## 📊 Prepare Dataset
 Download [[RGBD-Art dataset](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k)]
+[[Sample dataset ](https://drive.google.com/file/d/1fs6cYzlL0MPsE1Lw1unnUh5QhiaUQMDk/view?usp=sharing)]
 
 Unzip and organize these files in `./data` 
 
