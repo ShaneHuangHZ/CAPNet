@@ -8,7 +8,7 @@
 
 ## 📝 Overview
 This repository contains the PyTorch implementation of the paper "CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image"
-
+[[Website]](https://shanehuanghz.github.io/CAPNet/) [[Paper]](https://arxiv.org/pdf/2504.11230)
 ## 📚 Dependencies
 * python >= 3.10
 * torch >= 2.5.1
