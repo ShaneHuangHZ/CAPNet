@@ -22,6 +22,9 @@ conda activate capnet
 
 pip install -r requirements.txt
 
+git clone https://github.com/facebookresearch/sam2.git && cd sam2
+pip install -e .
+
 git clone https://github.com/mhamilton723/FeatUp.git
 cd FeatUp
 pip install -e .
