@@ -34,13 +34,15 @@ python setup.py install
 ```
 
 ## 📊 Prepare Dataset
-Download [[RGBD-Art dataset](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k)]
-[[Sample dataset ](https://drive.google.com/file/d/1fs6cYzlL0MPsE1Lw1unnUh5QhiaUQMDk/view?usp=sharing)]
+Download the datasets from the following links:  
+- [RGBD-Art dataset (Baidu Cloud)](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k)
+- [Sample dataset (Google Drive)](https://drive.google.com/file/d/1fs6cYzlL0MPsE1Lw1unnUh5QhiaUQMDk/view?usp=sharing)  
+- [RGBD-Art dataset (Dropbox)](https://www.dropbox.com/scl/fo/ilcfeahybp9ohccjj88yw/AFNZat-41S17JTJUx6OzyH4?rlkey=6hm1p6q07j95zfde6yu7b4meu&st=9eulwg9g&dl=0)
 
-Unzip and organize these files in `./data` 
+After downloading, unzip and place all files under `./data`.  
 
 ## 🪄 Inference
-We provide the [[pretrain models](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k)] of `CAPNet`
+We provide the pretrain models of `CAPNet` at [Baidu Cloud](https://pan.baidu.com/s/1iz-yAZ4OogosdxfQ5k9_eQ?pwd=874k) and [Google Drive](https://drive.google.com/file/d/1RFmB44T-z-8dt-unMojsPOmhm16ddUr3/view?usp=sharing).
 ```
 bash scripts/eval.sh
 ```
